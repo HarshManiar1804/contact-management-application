@@ -18,4 +18,4 @@ This is a full-stack contact management application built to manage users and th
 ### Backend
 - **Node JS**: Server-side runtime environment.
 - **Express JS**: Web application framework.
-- **MongoDB**: Database for storing user, doctor, and appointment data.
+- **MongoDB**: Database for storing contact data.
