@@ -1,6 +1,6 @@
 # Contact management system
 ## Overview
-This is a full-stack contact management application built to manage users and their contacts efficiently. The project is divided into two main parts: **Backend** and **Frontend**, each of which is well-structured for scalability and maintainability.
+This is a contact management application built to manage users and their contacts efficiently. The project is divided into two main parts: **Backend** and **Frontend**, each of which is well-structured for scalability and maintainability.
 ## Features
 
 - User authentication and authorization
